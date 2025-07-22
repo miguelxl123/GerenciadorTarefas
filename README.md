@@ -15,3 +15,4 @@ Um gerenciador de tarefas simples para terminal, desenvolvido em Java puro com f
 
 ## Como rodar
 1. Clone o repositório:
+git clone https://github.com/miguelxl123/GerenciadorTarefas.git
